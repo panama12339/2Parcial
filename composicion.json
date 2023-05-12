@@ -1,0 +1,25 @@
+{
+    "componentes": [
+        {
+            "id": 1,
+            "name" : "Crunchy Butterscoth",
+            "descripcion" : "Butterscoth & Cashews",
+            "precio" : "Bs. 18"
+        },
+        {
+            "id": 2,
+            "name" : "Supermans Secret",
+            "descripcion" : "Peanut Butter, Dry fruit, With Vanilla Ice Cream",
+            "precio" : "Bs. 21"
+        } ,
+        
+        {
+            "id": 3,
+            "name" : "Wonder Woman Shake",
+            "descripcion" : "Saffron, With Vanilla Ice Cream",
+            "precio" : "Bs. 19"
+        }
+
+    ]
+
+}
